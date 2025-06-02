@@ -31,7 +31,7 @@ export default function AboutPage() {
             </CardContent>
           </Card>
 
-          <Card className="border-orange-200 overflow-hidden">
+          {/* <Card className="border-orange-200 overflow-hidden">
             <CardContent className="p-8 text-center bg-gradient-to-br from-orange-50 to-yellow-50">
               <Image
                 src="IMG_E0136.JPG?height=200&width=200"
@@ -44,7 +44,7 @@ export default function AboutPage() {
               <p className="text-sm text-gray-500 mb-4">संस्थापक सह-साझेदार</p>
               
             </CardContent>
-          </Card>
+          </Card> */}
         </div>
 
         {/* Mission Section */}
