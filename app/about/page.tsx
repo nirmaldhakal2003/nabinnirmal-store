@@ -35,7 +35,7 @@ export default function AboutPage() {
             <CardContent className="p-8 text-center bg-gradient-to-br from-orange-50 to-yellow-50">
               <Image
                 src="IMG_E0136.JPG?height=200&width=200"
-                alt="निर्मल"
+                alt="image"
                 width={200}
                 height={200}
                 className="rounded-full mx-auto mb-6 border-4 border-orange-200"
