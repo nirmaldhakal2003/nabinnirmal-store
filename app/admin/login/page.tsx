@@ -110,7 +110,11 @@ export default function AdminLoginPage() {
                 required
                 value={formData.adminId}
                 onChange={handleChange}
+<<<<<<< HEAD
                 placeholder="id"
+=======
+                placeholder="nabin2003"
+>>>>>>> 3519585517cb61282f8d8c0f8986eb971401043e
                 className="border-orange-200 focus:border-red-400"
                 autoComplete="username"
               />
@@ -128,7 +132,11 @@ export default function AdminLoginPage() {
                   required
                   value={formData.password}
                   onChange={handleChange}
+<<<<<<< HEAD
                   placeholder="password"
+=======
+                  placeholder="nirmal2003"
+>>>>>>> 3519585517cb61282f8d8c0f8986eb971401043e
                   className="border-orange-200 focus:border-red-400"
                   autoComplete="current-password"
                 />

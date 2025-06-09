@@ -15,7 +15,11 @@ const demoProducts = [
     nameEn: "Basmati Rice",
     price: 180,
     originalPrice: 200,
+<<<<<<< HEAD
     image: "istockphoto-489843870-612x612.jpg?height=300&width=300",
+=======
+    image: "nns.png?height=300&width=300",
+>>>>>>> 3519585517cb61282f8d8c0f8986eb971401043e
     description: "उच्च गुणस्तरको बासमती चामल - १ केजी। खुसबुदार र स्वादिष्ट।",
     category: "grocery",
     inStock: true,
@@ -23,11 +27,19 @@ const demoProducts = [
   },
   {
     id: "demo-2",
+<<<<<<< HEAD
     name: "हिमालयन क्रीम",
     nameEn: "Himalayan Ice Cream",
     price: 450,
     originalPrice: 500,
     image: "14485711_5470687.svg?height=300&width=300",
+=======
+    name: "हिमालयन फेस क्रीम",
+    nameEn: "Himalayan Face Cream",
+    price: 450,
+    originalPrice: 500,
+    image: "nns.png?height=300&width=300",
+>>>>>>> 3519585517cb61282f8d8c0f8986eb971401043e
     description: "प्राकृतिक जडिबुटीले बनेको फेस क्रीम। सबै प्रकारको छालाको लागि उपयुक्त।",
     category: "cosmetics",
     inStock: true,
@@ -39,7 +51,11 @@ const demoProducts = [
     nameEn: "Dal Bhat Masala",
     price: 85,
     originalPrice: 95,
+<<<<<<< HEAD
     image: "81860049_13 -37.jpg?height=300&width=300",
+=======
+    image: "nns.png?height=300&width=300",
+>>>>>>> 3519585517cb61282f8d8c0f8986eb971401043e
     description: "नेपाली खानाको लागि विशेष मसला। घरेलु स्वादको लागि उत्तम।",
     category: "grocery",
     inStock: true,
@@ -51,7 +67,11 @@ const demoProducts = [
     nameEn: "Ayurvedic Shampoo",
     price: 320,
     originalPrice: 380,
+<<<<<<< HEAD
     image: "bottles-with-scrub-hand-made-soap-isolated-white.jpg?height=300&width=300",
+=======
+    image: "nns.png?height=300&width=300",
+>>>>>>> 3519585517cb61282f8d8c0f8986eb971401043e
     description: "बालको स्वास्थ्यको लागि आयुर्वेदिक शैम्पू। प्राकृतिक सामग्रीले भरपूर।",
     category: "cosmetics",
     inStock: true,
@@ -63,7 +83,11 @@ const demoProducts = [
     nameEn: "Tea Leaves",
     price: 120,
     originalPrice: 140,
+<<<<<<< HEAD
     image: "Untitled.jpeg?height=300&width=300",
+=======
+    image: "nns.png?height=300&width=300",
+>>>>>>> 3519585517cb61282f8d8c0f8986eb971401043e
     description: "इलामको उच्च गुणस्तरको चिया पत्ती। ताजा र सुगन्धित।",
     category: "grocery",
     inStock: true,
@@ -75,7 +99,11 @@ const demoProducts = [
     nameEn: "Nepali Soap",
     price: 45,
     originalPrice: 55,
+<<<<<<< HEAD
     image: "immages.jpeg?height=300&width=300",
+=======
+    image: "nns.png?height=300&width=300",
+>>>>>>> 3519585517cb61282f8d8c0f8986eb971401043e
     description: "प्राकृतिक सामग्रीले बनेको साबुन। छालाको लागि सुरक्षित।",
     category: "daily-essentials",
     inStock: false,

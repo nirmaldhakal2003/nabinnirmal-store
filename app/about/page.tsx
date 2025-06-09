@@ -7,7 +7,11 @@ export default function AboutPage() {
       <div className="container mx-auto px-4">
         {/* Hero Section */}
         <div className="text-center mb-16">
+<<<<<<< HEAD
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-6">नबिन निर्मल स्टोरको बारेमा</h1>
+=======
+          <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-6">🏪 नबिन निर्मल स्टोरको बारेमा</h1>
+>>>>>>> 3519585517cb61282f8d8c0f8986eb971401043e
           <p className="text-xl text-gray-600 max-w-4xl mx-auto">
             नबिन र निर्मलद्वारा स्थापित, हाम्रो पसलले तपाईंलाई उत्कृष्ट गुणस्तर र अतुलनीय ग्राहक सेवाका साथ उत्तम उत्पादनहरू प्रदान गर्न
             प्रतिबद्ध छ।
@@ -19,14 +23,23 @@ export default function AboutPage() {
           <Card className="border-orange-200 overflow-hidden">
             <CardContent className="p-8 text-center bg-gradient-to-br from-red-50 to-orange-50">
               <Image
+<<<<<<< HEAD
                 src="Untitled design.png"
                 alt="Proprietor"
+=======
+                src="IMG_0122.JPG?height=200&width=200"
+                alt="नबिन"
+>>>>>>> 3519585517cb61282f8d8c0f8986eb971401043e
                 width={200}
                 height={200}
                 className="rounded-full mx-auto mb-6 border-4 border-red-200"
               />
               <h3 className="text-2xl font-bold mb-2 text-red-700">खेम राज ढकाल</h3>
+<<<<<<< HEAD
               <p className="text-sm text-gray-500 mb-4">संस्थापक </p>
+=======
+              <p className="text-sm text-gray-500 mb-4">संस्थापक सह-साझेदार</p>
+>>>>>>> 3519585517cb61282f8d8c0f8986eb971401043e
              
             </CardContent>
           </Card>
@@ -34,14 +47,23 @@ export default function AboutPage() {
           <Card className="border-orange-200 overflow-hidden">
             <CardContent className="p-8 text-center bg-gradient-to-br from-orange-50 to-yellow-50">
               <Image
+<<<<<<< HEAD
                 src="gomadhakal.JPG"
                 alt="Manager"
+=======
+                src="IMG_E0136.jpg?height=200&width=200"
+                alt="निर्मल"
+>>>>>>> 3519585517cb61282f8d8c0f8986eb971401043e
                 width={200}
                 height={200}
                 className="rounded-full mx-auto mb-6 border-4 border-orange-200"
               />
               <h3 className="text-2xl font-bold mb-2 text-orange-700">गोमा देवी ढकाल</h3>
+<<<<<<< HEAD
               <p className="text-sm text-gray-500 mb-4">सह-संस्थापक</p>
+=======
+              <p className="text-sm text-gray-500 mb-4">संस्थापक सह-साझेदार</p>
+>>>>>>> 3519585517cb61282f8d8c0f8986eb971401043e
               
             </CardContent>
           </Card>
