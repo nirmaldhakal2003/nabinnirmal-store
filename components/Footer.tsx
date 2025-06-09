@@ -26,8 +26,8 @@ export default function Footer() {
               रामपुरको भरपर्दो अनलाइन पसल। गुणस्तरीय उत्पादन र उत्कृष्ट सेवाको लागि हामीलाई भरोसा गर्नुहोस्।
             </p>
             <div className="flex space-x-4">
-              <Facebook className="h-5 w-5 text-gray-400 hover:text-blue-400 cursor-pointer" />
-              <Instagram className="h-5 w-5 text-gray-400 hover:text-pink-400 cursor-pointer" />
+             <a href="https://www.facebook.com/dhakakhemraj45" target="_blank"> <Facebook className="h-5 w-5 text-gray-400 hover:text-blue-400 cursor-pointer" /></a>
+              
             </div>
           </div>
 
@@ -121,7 +121,7 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 mb-4 md:mb-0">© 2025 नबिन निर्मल स्टोर। सबै अधिकार सुरक्षित।</p>
             <div className="flex items-center space-x-4 text-sm text-gray-400">
-              <span>🇳🇵 नेपालमा निर्मित</span>
+              <a href="https://shreeks.com.np" target="_blank"><span>Developed By: Shreeks Softwares</span></a>
               <span>•</span>
               <span>💚 पर्यावरण मैत्री</span>
             </div>
